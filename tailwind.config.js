@@ -9,7 +9,7 @@ export default {
       gb: "hsl(var(--gb))",
       dgb: "hsl(var(--dgb))",
       db: "hsl(var(--db))",
-      lg: "hsl(var(--lg))",
+      lc: "hsl(var(--lc))",
       ng: "hsl(var(--ng))",
     },
 
