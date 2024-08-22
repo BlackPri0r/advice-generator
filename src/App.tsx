@@ -1,7 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import './index.css';
 import mobile from './assets/pattern-divider-mobile.svg';
-import desktop from './assets/pattern-divider-desktop.svg';
 import dice from './assets/icon-dice.svg';
 
 interface Slip {
